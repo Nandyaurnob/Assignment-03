@@ -41,3 +41,20 @@ a.btn.btn-primary.mt3 {
     padding-top: 15px;
 }
 
+.courses-caption {
+    padding-top: 50px;
+}
+.courses-caption h2{
+    font-size: 45px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.courses-caption p {
+    width: 60%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+    padding-top: 15px;
+}
+
+
