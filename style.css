@@ -89,4 +89,44 @@ img.img-fluid.rounded-start {
     text-align: center;
 }
 
+.container.elearning-Institute {
+    margin-top: 80px;
+    padding: 0px;
+}
+
+.elearning-Institute h2 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.elearning-Institute p {
+    line-height: 2.0;
+    font-size: 15px;
+}
+
+.card.Register-Item {
+    margin-top: 50px;
+    margin-left: -14px;
+    margin-right: 4px;
+    background: #289BDE;
+    color: #fff;
+}
+
+a.btn.btn-primary.Register-Item {
+    background-color: #fff;
+    color: #289BDE;
+    border: none;
+}
+
+
+.row.Register-Item {
+    padding: 40px;
+}
+
+.col-md-4.d-flex.align-items-center.Register-Item {
+    padding-left: 92px;
+}
+
+
+
 
