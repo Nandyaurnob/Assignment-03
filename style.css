@@ -156,6 +156,59 @@ section.accordion-container {
     margin-top: 50px;
 }
 
+footer {
+    background: #0B0D17;
+    height: auto;
+    width: 100%;
+    padding-top: 40px;
+    color: #FAFAFA;
+    margin-top: 80px;
+}
+
+.footer-content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer-content h2 {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.footer-content p{
+    padding: 10px;
+    margin: 10px;
+}
+
+.items {
+    margin-top: -50px;
+}
+.items a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.items a:hover{
+    color: #fff;
+}
+
+.social-media {
+    margin-top: 0px;
+    padding: 0px 10px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+i.fab.fa-facebook-f {
+    margin: 15px;
+}
+
+i.fab.fa-linkedin-in{
+    margin: 15px;
+}
+
 
 
 
