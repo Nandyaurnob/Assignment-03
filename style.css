@@ -127,6 +127,21 @@ a.btn.btn-primary.Register-Item {
     padding-left: 92px;
 }
 
+.card-body.Meet-Student {
+    margin-top: 50px;
+}
+
+.card-body.Meet-Student h2 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.card-body.Meet-Student p {
+    font-size: 15px;
+    line-height: 2.0;
+    margin-top: 15px;
+}
+
 
 
 
